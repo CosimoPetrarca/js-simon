@@ -8,3 +8,4 @@ Dopo che sono stati inseriti i 5 numeri, il software dice quanti e quali dei num
 - tramite prompt chiedere i numeri all'utente;
 - verifichiamo quanti e quali numeri digitati dall'utente sono esatti;
 - stampiamo il risultato;
+
